@@ -14,3 +14,8 @@ let resta = function resta(num1, num2) {
   let resultadoResta = num1 - num2;
   return resultadoResta;
 };
+
+let multiplicacion = function (num1, num2) {
+  let resultado = num1 * num2;
+  return resultado;
+};
