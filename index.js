@@ -9,3 +9,8 @@ function suma(num1, num2) {
   return resultadoSuma;
 }
 let suma = suma();
+
+let resta = function resta(num1, num2) {
+  let resultadoResta = num1 - num2;
+  return resultadoResta;
+};
