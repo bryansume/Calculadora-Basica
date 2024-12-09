@@ -5,6 +5,7 @@ const rl = require("readline-sync");
 let operacion = rl.question("Que operación deseas realizar (suma, resta): ");
 let num1 = rl.questionInt("Introduce un número: ");
 let num2 = rl.questionInt("Introduce un número: ");
+
 function suma(num1, num2) {
   let resultado = num1 + num2;
   return resultado;
