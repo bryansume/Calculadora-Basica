@@ -21,4 +21,6 @@ if (operacion === "suma") {
   console.log(`El resultado de la suma es: ${resultadoSuma}`);
 } else if (operacion === "resta") {
   console.log(`El resultado de la resta es: ${resultadoResta}`);
+} else {
+  console.log(`Por favor introduce una operación correcta`);
 }
