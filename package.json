@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "name": "calculadora-pro",
+  "version": "1.0.0",
+  "description": "Ejercicio PI_003_GitHub En este caso creo un repositorio para ver la creación y evolución de un programa sencillo.  Es un programa para realizar operaciones matemáticas.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
 }
